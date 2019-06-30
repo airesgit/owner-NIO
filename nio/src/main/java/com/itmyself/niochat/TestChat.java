@@ -1,4 +1,4 @@
-package com.itmyself.talk;
+package com.itmyself.niochat;
 
 import java.io.IOException;
 import java.util.Scanner;
